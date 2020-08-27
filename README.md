@@ -1,6 +1,9 @@
 # Photography
 
 <a onclick="window.open(this.href,'_blank');return false;" href="https://griffinphotographyservice.surge.sh/">Visit the Website.</a>
+<a href="https://griffinphotographyservice.surge.sh/" target="_blank" >Visit the Website2.</a>
+
+
 
 <br>
 
