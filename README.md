@@ -1,6 +1,6 @@
 # Photography
 
-<a href="https://griffinphotographyservice.surge.sh/" target="_blank" >Visit the Website.</a>
+<a href="https://griffinphotographyservice.surge.sh/" target="_blank" >Visit the Website..</a>
 
 <br>
 
